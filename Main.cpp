@@ -1,7 +1,7 @@
 /*............................................
   Tic-Tac-Toe Game 
   Autor: Madhusanka Wijerathne
-  CPP basic 
+  CPP OOP design 
   ...........................................*/
 
 #include<iostream>
